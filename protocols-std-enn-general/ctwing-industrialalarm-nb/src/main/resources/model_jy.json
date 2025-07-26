@@ -1,0 +1,5525 @@
+{
+
+  "modelCodeList": [
+
+    "CBAM-75H",
+
+    "CBAM-78H",
+
+    "CBAM-05H",
+
+    "CBAM-4AH",
+
+    "CBAM-49H",
+
+    "CBAM-09H",
+
+    "CBAM-13H",
+
+    "4AH",
+
+    "CBAM-13H-1#",
+
+    "CBAM-12H-1#",
+
+    "CBAM-02H",
+
+    "08H"
+
+  ],
+
+  "modelMap": {
+
+    "08H": [
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "2号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86090,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey2",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "3号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86091,
+
+        "index": 2,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey3",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "4号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86092,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey4",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "5号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86093,
+
+        "index": 4,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey5",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "6号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86094,
+
+        "index": 5,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey6",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "7号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86095,
+
+        "index": 6,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey7",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "8号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86096,
+
+        "index": 7,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey8",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "0",
+
+        "byteLen": 16,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "9号密钥",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 86097,
+
+        "index": 8,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "08H",
+
+          "id": 28441,
+
+          "orderCode": "08H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "CODEkey9",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      }
+
+    ],
+
+    "CBAM-13H-1#": [
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 6,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "采集时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590392,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器历史数据补掉（标准协议）",
+
+          "id": 96344,
+
+          "orderCode": "CBAM-13H-1#",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "TIME",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "电池电压",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590393,
+
+        "index": 4,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器历史数据补掉（标准协议）",
+
+          "id": 96344,
+
+          "orderCode": "CBAM-13H-1#",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "INT_DIVIDE_100",
+
+          "createTime": 1559527562000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "INT_DIVIDE_100",
+
+          "id": 470,
+
+          "type": 3,
+
+          "updateTime": 1559527562000,
+
+          "updateUser": "李翠琼(licuiqiong)",
+
+          "version": 0
+
+        },
+
+        "targetPath": "Ubat",
+
+        "unit": {
+
+          "createTime": 1502045853000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "V",
+
+          "id": 264,
+
+          "type": 1,
+
+          "version": 0
+
+        },
+
+        "version": 2
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "信号强度",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590394,
+
+        "index": 5,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器历史数据补掉（标准协议）",
+
+          "id": 96344,
+
+          "orderCode": "CBAM-13H-1#",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "INT_DIVIDE_100",
+
+          "createTime": 1559527562000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "INT_DIVIDE_100",
+
+          "id": 470,
+
+          "type": 3,
+
+          "updateTime": 1559527562000,
+
+          "updateUser": "李翠琼(licuiqiong)",
+
+          "version": 0
+
+        },
+
+        "targetPath": "SignalWiNetwork",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 3
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "传感器（CH4）浓度",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590395,
+
+        "index": 6,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器历史数据补掉（标准协议）",
+
+          "id": 96344,
+
+          "orderCode": "CBAM-13H-1#",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "INT_DIVIDE_100",
+
+          "createTime": 1559527562000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "INT_DIVIDE_100",
+
+          "id": 470,
+
+          "type": 3,
+
+          "updateTime": 1559527562000,
+
+          "updateUser": "李翠琼(licuiqiong)",
+
+          "version": 0
+
+        },
+
+        "targetPath": "SensorConcentration",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "传感器（CH4）状态",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590396,
+
+        "index": 7,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器历史数据补掉（标准协议）",
+
+          "id": 96344,
+
+          "orderCode": "CBAM-13H-1#",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "SensorStatus",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "输出模块状态",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590397,
+
+        "index": 8,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器历史数据补掉（标准协议）",
+
+          "id": 96344,
+
+          "orderCode": "CBAM-13H-1#",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "OutputStatus",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      }
+
+    ],
+
+    "CBAM-78H": [
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "输出地址",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605819,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "控制输出模块",
+
+          "id": 96568,
+
+          "orderCode": "CBAM-78H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "Output add",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "输出类型",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605820,
+
+        "index": 2,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "控制输出模块",
+
+          "id": 96568,
+
+          "orderCode": "CBAM-78H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "outtype",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "输出模块状态",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605821,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "控制输出模块",
+
+          "id": 96568,
+
+          "orderCode": "CBAM-78H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "OutputStatus",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      }
+
+    ],
+
+    "CBAM-13H": [
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "开始时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605570,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-读历史数据",
+
+          "id": 96535,
+
+          "orderCode": "CBAM-13H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "startTime",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "结束时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605571,
+
+        "index": 2,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-读历史数据",
+
+          "id": 96535,
+
+          "orderCode": "CBAM-13H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "endTime",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      }
+
+    ],
+
+    "CBAM-02H": [
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 6,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "采集时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590379,
+
+        "index": 2,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器状态信息上报（标准协议）",
+
+          "id": 96342,
+
+          "orderCode": "CBAM-02H",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "TIME",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 3
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "供电状态",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590380,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器状态信息上报（标准协议）",
+
+          "id": 96342,
+
+          "orderCode": "CBAM-02H",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "PowerStatus",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 20,
+
+        "byteOrder": "BIG_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "ICCID",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590381,
+
+        "index": 4,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器状态信息上报（标准协议）",
+
+          "id": 96342,
+
+          "orderCode": "CBAM-02H",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "ASCII",
+
+          "createTime": 1535612061000,
+
+          "createUser": "李艳红(liyanhonga)",
+
+          "deleted": false,
+
+          "depict": "ASCII",
+
+          "id": 396,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ICCID",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      }
+
+    ],
+
+    "CBAM-05H": [
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605818,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-时钟校对",
+
+          "id": 96567,
+
+          "orderCode": "CBAM-05H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "time",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      }
+
+    ],
+
+    "CBAM-49H": [
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "上报方式",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605811,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-设置采集周期",
+
+          "id": 96565,
+
+          "orderCode": "CBAM-49H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "reportType",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报日次数",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605812,
+
+        "index": 2,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-设置采集周期",
+
+          "id": 96565,
+
+          "orderCode": "CBAM-49H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "reportingTimes",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605813,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-设置采集周期",
+
+          "id": 96565,
+
+          "orderCode": "CBAM-49H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "reportTimeStr",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "间隔上报的间隔时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605814,
+
+        "index": 4,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-设置采集周期",
+
+          "id": 96565,
+
+          "orderCode": "CBAM-49H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "intervalReportingTime",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "间隔上报首次上报时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605815,
+
+        "index": 5,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-设置采集周期",
+
+          "id": 96565,
+
+          "orderCode": "CBAM-49H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "intervalReportingFirstTime",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      },
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "采集的间隔时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605816,
+
+        "index": 6,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-设置采集周期",
+
+          "id": 96565,
+
+          "orderCode": "CBAM-49H",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "collectionInterval",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      }
+
+    ],
+
+    "CBAM-12H-1#": [
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 6,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "采集时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590384,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器采集数据上报（标准协议）",
+
+          "id": 96343,
+
+          "orderCode": "CBAM-12H-1#",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "TIME",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "电池电压",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590385,
+
+        "index": 4,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器采集数据上报（标准协议）",
+
+          "id": 96343,
+
+          "orderCode": "CBAM-12H-1#",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "INT_DIVIDE_100",
+
+          "createTime": 1559527562000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "INT_DIVIDE_100",
+
+          "id": 470,
+
+          "type": 3,
+
+          "updateTime": 1559527562000,
+
+          "updateUser": "李翠琼(licuiqiong)",
+
+          "version": 0
+
+        },
+
+        "targetPath": "Ubat",
+
+        "unit": {
+
+          "createTime": 1502045853000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "V",
+
+          "id": 264,
+
+          "type": 1,
+
+          "version": 0
+
+        },
+
+        "version": 2
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "信号强度",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590386,
+
+        "index": 5,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器采集数据上报（标准协议）",
+
+          "id": 96343,
+
+          "orderCode": "CBAM-12H-1#",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "INT_DIVIDE_100",
+
+          "createTime": 1559527562000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "INT_DIVIDE_100",
+
+          "id": 470,
+
+          "type": 3,
+
+          "updateTime": 1559527562000,
+
+          "updateUser": "李翠琼(licuiqiong)",
+
+          "version": 0
+
+        },
+
+        "targetPath": "SignalWiNetwo",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 4
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "传感器（CH4）浓度",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590387,
+
+        "index": 6,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器采集数据上报（标准协议）",
+
+          "id": 96343,
+
+          "orderCode": "CBAM-12H-1#",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "INT_DIVIDE_100",
+
+          "createTime": 1559527562000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "INT_DIVIDE_100",
+
+          "id": 470,
+
+          "type": 3,
+
+          "updateTime": 1559527562000,
+
+          "updateUser": "李翠琼(licuiqiong)",
+
+          "version": 0
+
+        },
+
+        "targetPath": "SensorConcentration",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "传感器（CH4）状态",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590388,
+
+        "index": 7,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器采集数据上报（标准协议）",
+
+          "id": 96343,
+
+          "orderCode": "CBAM-12H-1#",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "SensorStatus",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "输出模块状态",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590389,
+
+        "index": 8,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "报警器采集数据上报（标准协议）",
+
+          "id": 96343,
+
+          "orderCode": "CBAM-12H-1#",
+
+          "orderSign": "UPLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "OutputStatus",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      }
+
+    ],
+
+    "4AH": [
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "上报方式",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590492,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingMethod",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 2
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报日次数",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590493,
+
+        "index": 2,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTimes",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报1",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590494,
+
+        "index": 3,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime1",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报2",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590495,
+
+        "index": 4,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime2",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报3",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590496,
+
+        "index": 5,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime3",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报4",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590497,
+
+        "index": 6,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime4",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报5",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590498,
+
+        "index": 7,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime5",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报6",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590499,
+
+        "index": 8,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime6",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报7",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590500,
+
+        "index": 9,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime7",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报8",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590501,
+
+        "index": 10,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime8",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报9",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590502,
+
+        "index": 11,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime9",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报10",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590503,
+
+        "index": 12,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime10",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报11",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590504,
+
+        "index": 13,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime11",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "定时上报12",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590505,
+
+        "index": 14,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "ReportingTime12",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "上报时间间隔",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590506,
+
+        "index": 15,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "IntervalTime",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "间隔上报首次上报时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590507,
+
+        "index": 16,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "Time_BCD",
+
+          "createTime": 1502214515000,
+
+          "createUserId": 4,
+
+          "deleted": false,
+
+          "depict": "Time_BCD",
+
+          "id": 288,
+
+          "type": 3,
+
+          "updateTime": 1502214515000,
+
+          "version": 0
+
+        },
+
+        "targetPath": "FirstreportTime",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      },
+
+      {
+
+        "attrGroup": "CBAM",
+
+        "byteLen": 2,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "采集的间隔时间",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 590508,
+
+        "index": 17,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "上报周期查询（标准协议）",
+
+          "id": 96375,
+
+          "orderCode": "4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "HEX",
+
+          "createTime": 1532505711000,
+
+          "createUser": "李翠琼(licuiqiong)",
+
+          "deleted": false,
+
+          "depict": "HEX",
+
+          "id": 380,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "Acquisition interval",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 1
+
+      }
+
+    ],
+
+    "CBAM-4AH": [
+
+      {
+
+        "attrGroup": "IACA",
+
+        "byteLen": 1,
+
+        "byteOrder": "LITTLE_ENDIAN",
+
+        "controlFlag": false,
+
+        "dataType": {},
+
+        "deleted": false,
+
+        "depict": "参数",
+
+        "frequency": 0,
+
+        "funCode": 0,
+
+        "id": 605817,
+
+        "index": 1,
+
+        "model": {
+
+          "accessWay": "AGREEMENTACCESS",
+
+          "baudRate": "9600",
+
+          "checkBit": "None",
+
+          "dataBit": "8",
+
+          "deleted": false,
+
+          "depict": "家用报警器-读取采集上报周期",
+
+          "id": 96566,
+
+          "orderCode": "CBAM-4AH",
+
+          "orderSign": "DOWNLINK",
+
+          "parseMode": "TCP",
+
+          "status": false,
+
+          "stopBit": "2"
+
+        },
+
+        "protocolDataType": {
+
+          "code": "String",
+
+          "createTime": 1502043610000,
+
+          "createUserId": 1,
+
+          "deleted": false,
+
+          "depict": "String",
+
+          "id": 254,
+
+          "type": 3,
+
+          "version": 0
+
+        },
+
+        "targetPath": "param",
+
+        "unit": {
+
+          "code": "null",
+
+          "createTime": 1506754024000,
+
+          "createUser": "刘广璐(liuguanglu)",
+
+          "deleted": false,
+
+          "depict": "null",
+
+          "id": 319,
+
+          "type": 1,
+
+          "updateTime": 1595570673000,
+
+          "updateUser": "外部测试账号(test123)",
+
+          "version": 1
+
+        },
+
+        "version": 0
+
+      }
+
+    ]
+
+  }
+
+}

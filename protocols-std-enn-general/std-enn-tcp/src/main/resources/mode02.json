@@ -1,0 +1,357 @@
+{
+  "modelMap": {
+    "UVWDM-12H-1#": [
+      {
+        "depict": "时间",
+        "byteLen": 6,
+        "protocolDataType": {
+          "code": "Time_BCD"
+        },
+        "targetPath": "TIME",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "数据条数",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "INT_DIVIDE_100"
+        },
+        "targetPath": "NUM",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "出口压力",
+        "byteLen": 4,
+        "protocolDataType": {
+          "code": "Float"
+        },
+        "targetPath": "outPA",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "出口温度",
+        "byteLen": 4,
+        "protocolDataType": {
+          "code": "Float"
+        },
+        "targetPath": "outTemp",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "进口压力",
+        "byteLen": 4,
+        "protocolDataType": {
+          "code": "Float"
+        },
+        "targetPath": "inPA",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "进口温度",
+        "byteLen": 4,
+        "protocolDataType": {
+          "code": "Float"
+        },
+        "targetPath": "inTemp",
+        "byteOrder": "LITTLE_ENDIAN"
+      }
+    ],
+    "UVWDM-01H-01": [
+      {
+        "depict": "时间",
+        "byteLen": 6,
+        "protocolDataType": {
+          "code": "Time_BCD"
+        },
+        "targetPath": "TIME",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "报警代码",
+        "byteLen": 2,
+        "protocolDataType": {
+          "code": "HEX"
+        },
+        "targetPath": "ALMCode",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "报警值",
+        "byteLen": 4,
+        "protocolDataType": {
+          "code": "Float"
+        },
+        "targetPath": "ALMVal",
+        "byteOrder": "LITTLE_ENDIAN"
+      }
+    ],
+    "UVWDM-02H-1#": [
+      {
+        "depict": "时间1",
+        "byteLen": 6,
+        "protocolDataType": {
+          "code": "Time_BCD"
+        },
+        "targetPath": "TIME",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "电池电压",
+        "byteLen": 2,
+        "protocolDataType": {
+          "code": "INT_DIVIDE_100"
+        },
+        "targetPath": "Ubat",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "信号强度",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "INT_DIVIDE_100"
+        },
+        "targetPath": "SignalWiNetwork",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "固件版本",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "INT_DIVIDE_100"
+        },
+        "targetPath": "firmwareVersion",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "终端故障监测",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "FLTSterml",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "电池欠压",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "ALMbtuv",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "网络异常",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "ALMnet",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "高温报警",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "ALMtempHg",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "压力传感器1故障",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "FLTpressTrd1",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "压力传感器2故障",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "FLTpressTrd2",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留1",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu1",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留2",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "1",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留3",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu3",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留4",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu4",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留5",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu5",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留6",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu6",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留7",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu7",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留8",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu8",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留9",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu9",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留10",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu10",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留11",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu11",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留12",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu12",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留13",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu13",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留14",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu14",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留15",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu15",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留16",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu16",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留17",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu17",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "预留18",
+        "byteLen": 1,
+        "protocolDataType": {
+          "code": "BIT"
+        },
+        "targetPath": "yuliu18",
+        "byteOrder": "LITTLE_ENDIAN"
+      },
+      {
+        "depict": "固定值",
+        "byteLen": 2,
+        "protocolDataType": {
+          "code": "INT_DIVIDE_100"
+        },
+        "targetPath": "gudingzhi",
+        "byteOrder": "LITTLE_ENDIAN"
+      }
+    ]
+  },
+  "modelCodeList": [
+    "UVWDM-01H-01",
+    "UVWDM-02H-1#",
+    "UVWDM-12H-1#"
+  ]
+}
